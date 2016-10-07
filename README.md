@@ -73,7 +73,7 @@ $  sudo make install            //编译
 $  pwd                          //输出当前所在路径，需记录当前的工作路径
 ```
 
-得到当前的工作路径，需要记下来，后面要用：(这里贴出的图有点小错，应该需要去掉后面的/objdir路径，请大家注意~)![微信截图_20160921234110](C:\Users\DELL\Pictures\微信截图_20160921234110.png)
+得到当前的工作路径，需要记下来，后面要用：(这里贴出的图有点小错，应该需要去掉后面的/objdir路径，请大家注意~)![微信截图_20160921234110](https：//github.com/TTTSSS/ES2016_14353283/raw/master/微信截图_20160921234110.png)
 
 5.编译dol
 
@@ -94,7 +94,7 @@ $  cd../dol                    //进入dol的文件夹
 $  ant -f build_zip.xml all    //编译
 ```
 
-若成功会显示build successful，贴一张成功的结果图：![豹截图20160922083157](C:\Users\DELL\Pictures\猎豹截图20160922083157.png)
+若成功会显示build successful，贴一张成功的结果图：![猎豹截图20160922083157](https：//github.com/TTTSSS/ES2016_14353283/raw/master/猎豹截图20160922083157.png)
 
 然后尝试运行第一个例子：
 
@@ -103,7 +103,7 @@ $  cd build/bin/main              //进入build/bin/mian路径下
 $  ant -frunexample.xml -Dnumber=1    //运行第一个例子
 ```
 
-运行结如下则说明DOL的开发环境配置已经完成。![微信截图_20160922150821](C:\Users\DELL\Pictures\微信截图_20160922150821.png)
+运行结如下则说明DOL的开发环境配置已经完成。![微信截图_20160922150821](https：//github.com/TTTSSS/ES2016_14353283/raw/master/微信截图_20160922150821.png)
 
 #### III.Experimental experiment
 
