@@ -64,7 +64,7 @@ $  ../configure CXX=g++--disable-async-updates    //运行configure
 
 运行configure后的结果：
 
-![QQ截图20160922135607](ES2016_14353283 / QQ截图20160922135607.png )
+![QQ截图20160922135607](https：//github.com/TTTSSS/ES2016_14353283/raw/master/QQ截图20160922135607.png)
 
 然后继续在命令行窗口执行以下命令：
 
