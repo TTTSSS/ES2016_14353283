@@ -1,6 +1,7 @@
 一、改完的*.dot图
 
 修改前的example1.dot：
+
 ![example1修改前的dot](https://github.com/TTTSSS/ES2016_14353283/master/eaxample1修改前的dot.png)
 
 修改后的example1.dot：
