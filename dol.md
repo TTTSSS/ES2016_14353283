@@ -4,7 +4,7 @@
 
 ![eaxample1修改前的dot](F:\大三\嵌入式实验\lab3\eaxample1修改前的dot.png)]()
 
-!![eaxample1修改前的dot](F:\大三\嵌入式实验\lab3\eaxample1修改前的dot.png)
+![example1修改前的dot](https://github.com/TTTSSS/ES2016_14353283/master/eaxample1修改前的dot.png)
 
 修改后的example1.dot：
 
