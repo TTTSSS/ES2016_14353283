@@ -94,8 +94,8 @@ $  cd../dol                    //进入dol的文件夹
 $  ant -f build_zip.xml all    //编译
 ```
 
-若成功会显示build successful，贴一张成功的结果图：![猎豹截图20160922083157](https：//github.com/TTTSSS/ES2016_14353283/raw/master/猎豹截图20160922083157.png)
-
+若成功会显示build successful，贴一张成功的结果图：
+![image](https://cloud.githubusercontent.com/assets/22443270/19918055/7fea7a70-a103-11e6-83c3-7010bcdabafc.png)
 然后尝试运行第一个例子：
 
 ```
