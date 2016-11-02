@@ -64,7 +64,7 @@ $  ../configure CXX=g++--disable-async-updates    //运行configure
 
 运行configure后的结果：
 
-![1](https：//github.com/TTTSSS/ES2016_14353283/raw/master/1.png)
+![1](https://cloud.githubusercontent.com/assets/22443270/19917977/dbe97a20-a102-11e6-9714-bbd9ba359c07.png)
 
 然后继续在命令行窗口执行以下命令：
 
