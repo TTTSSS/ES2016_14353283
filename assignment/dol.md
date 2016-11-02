@@ -6,7 +6,7 @@
 
 修改后的example1.dot：
 
- ![example1修改后的dot](https://github.com/TTTSSS/ES2016_14353283/master/eaxample1修改后的dot.png)
+ ![example1修改后的dot](https://cloud.githubusercontent.com/assets/22443270/19918292/ed41a0c0-a104-11e6-85c5-6c1289dfe3f7.png)
 
  修改example1，使其输出3次方数，tips:修改square.c：
 
