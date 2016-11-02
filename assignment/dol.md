@@ -2,7 +2,7 @@
 
 修改前的example1.dot：
 
-![example1修改前的dot](https://github.com/TTTSSS/ES2016_14353283/master/eaxample1修改前的dot.png)
+![example1修改前的dot](https://cloud.githubusercontent.com/assets/22443270/19918269/c3faa748-a104-11e6-8788-e26a371454f7.png)
 
 修改后的example1.dot：
 
