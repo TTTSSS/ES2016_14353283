@@ -22,7 +22,7 @@
 
  修改example2，让3个square模块变成2个, tips:修改xml的iterator ：
 
-![example2修改后的数据](https://github.com/TTTSSS/ES2016_14353283/master/eaxample2修改后的数据.png)
+![example2修改后的数据](https://cloud.githubusercontent.com/assets/22443270/19918430/161d41b0-a106-11e6-9c90-737e8c91b2c6.png)
 
 二、修改过程
 
