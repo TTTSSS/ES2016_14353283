@@ -103,7 +103,8 @@ $  cd build/bin/main              //进入build/bin/mian路径下
 $  ant -frunexample.xml -Dnumber=1    //运行第一个例子
 ```
 
-运行结如下则说明DOL的开发环境配置已经完成。![微信截图_20160922150821](https：//github.com/TTTSSS/ES2016_14353283/raw/master/微信截图_20160922150821.png)
+运行结如下则说明DOL的开发环境配置已经完成。
+![image1](https://cloud.githubusercontent.com/assets/22443270/19918130/ef9d195e-a103-11e6-9a5b-886f52737a06.png)
 
 #### III.Experimental experiment
 
