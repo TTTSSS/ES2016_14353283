@@ -10,7 +10,7 @@
 
  修改example1，使其输出3次方数，tips:修改square.c：
 
- ![example1修改后的数据](https://github.com/TTTSSS/ES2016_14353283/master/eaxample1修改后的数据.png)
+ ![example1修改后的数据](https://cloud.githubusercontent.com/assets/22443270/19918316/12f9f95c-a105-11e6-8d90-506bddab7c5d.png)
 
 修改前的example2.dot：
 
