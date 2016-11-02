@@ -17,7 +17,8 @@
  ![example2修改前的dot](https://cloud.githubusercontent.com/assets/22443270/19918345/3c21db4c-a105-11e6-96c2-f821eb2aad41.png)
 修改后的example2.dot：
 
- ![example2修改后的dot](https://github.com/TTTSSS/ES2016_14353283/master/eaxample2修改后的dot.png)
+ ![example2修改后的dot](https://cloud.githubusercontent.com/assets/22443270/19918356/5f9cebe8-a105-11e6-8196-6ba41016b35a.png)
+
 
  修改example2，让3个square模块变成2个, tips:修改xml的iterator ：
 
