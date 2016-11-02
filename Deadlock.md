@@ -1,4 +1,5 @@
 一、截图
+
 ![image](https://cloud.githubusercontent.com/assets/22443270/19890434/9cf59b38-a075-11e6-86ae-bcd2c0e1d453.png)
 
 二、产生死锁的4个必要条件：
