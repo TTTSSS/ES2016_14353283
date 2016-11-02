@@ -14,7 +14,7 @@
 
 修改前的example2.dot：
 
- ![example2修改前的dot]https://cloud.githubusercontent.com/assets/22443270/19918356/5f9cebe8-a105-11e6-8196-6ba41016b35a.png
+ ![example2修改前的dot](https://cloud.githubusercontent.com/assets/22443270/19918356/5f9cebe8-a105-11e6-8196-6ba41016b35a.png)
  
 修改后的example2.dot：
 
