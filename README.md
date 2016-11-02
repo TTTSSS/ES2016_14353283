@@ -96,6 +96,7 @@ $  ant -f build_zip.xml all    //编译
 
 若成功会显示build successful，贴一张成功的结果图：
 ![image](https://cloud.githubusercontent.com/assets/22443270/19918055/7fea7a70-a103-11e6-83c3-7010bcdabafc.png)
+
 然后尝试运行第一个例子：
 
 ```
