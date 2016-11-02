@@ -14,8 +14,7 @@
 
 修改前的example2.dot：
 
- ![example2修改前的dot](https://github.com/TTTSSS/ES2016_14353283/master/eaxample2修改前的dot.png)
-
+ ![example2修改前的dot](https://cloud.githubusercontent.com/assets/22443270/19918345/3c21db4c-a105-11e6-96c2-f821eb2aad41.png)
 修改后的example2.dot：
 
  ![example2修改后的dot](https://github.com/TTTSSS/ES2016_14353283/master/eaxample2修改后的dot.png)
