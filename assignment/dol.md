@@ -36,8 +36,7 @@
 
 3.注意生成的example文件在dol/build/bin/main/example下，是加锁的。当我们要生成新的dot图，需要先删掉之前的example文件，然后重新编译dol，运行example，运行指令在第一次实验配置中就已经接触过，为sudo ant –f runexample.xml –Dnumber=XXX。那么我们必须先解锁才能删除，解锁方法如下：
 
-![解锁锁定文件](https://github.com/TTTSSS/ES2016_14353283/master/解锁锁定文件.png)
-
+![解锁锁定文件](https://cloud.githubusercontent.com/assets/22443270/19918446/485ac012-a106-11e6-9a7c-e72c18f27587.png)
 4.另外是一个小提示：生成的example1文件在dol/build/bin/main/example1，而修改example是在dol/examples/example1/src里，这点切勿搞混了。
 
 三、实验感想
