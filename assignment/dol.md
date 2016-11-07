@@ -32,7 +32,7 @@
 
 2.example2，修改迭代次数，也就是下面的value为2，就可以让3个square模块变成2个：
 
- ![iterator图片](https://github.com/TTTSSS/ES2016_14353283/master/iterator图片.png)
+ ![iterator图片](https://cloud.githubusercontent.com/assets/22443270/20047882/4d92183c-a4f3-11e6-80da-8a51fd38ea6d.png)
 
 3.注意生成的example文件在dol/build/bin/main/example下，是加锁的。当我们要生成新的dot图，需要先删掉之前的example文件，然后重新编译dol，运行example，运行指令在第一次实验配置中就已经接触过，为sudo ant –f runexample.xml –Dnumber=XXX。那么我们必须先解锁才能删除，解锁方法如下：
 
