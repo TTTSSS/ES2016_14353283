@@ -28,7 +28,7 @@
 
 1.example1，修改"i=i*i"为"i=i*i*i"，就可以得到3次方数
 
- ![squre.c图片](https://github.com/TTTSSS/ES2016_14353283/master/squre.c图片.png)
+ ![squre.c图片](https://cloud.githubusercontent.com/assets/22443270/20047860/2160105c-a4f3-11e6-81ac-46b7508634c4.png)
 
 2.example2，修改迭代次数，也就是下面的value为2，就可以让3个square模块变成2个：
 
